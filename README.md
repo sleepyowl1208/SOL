@@ -1,6 +1,4 @@
-# 🌌 SOL
-
-> *Start simple. Scale infinitely.*
+# 🌌 SOL 
 
 ---
 
