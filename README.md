@@ -1,4 +1,4 @@
-# 🌌 SOL — System of Learning
+# 🌌 SOL
 
 > *Start simple. Scale infinitely.*
 
